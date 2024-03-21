@@ -1,0 +1,32 @@
+{
+  "name": "temporeipsam",
+  "version": "1.0.0",
+  "description": "All interfaces and base classes from Lens core used for creating follow, collect, and open action modules",
+  "files": [
+    "/contracts/**/*.sol"
+  ],
+  "scripts": {
+    "compile": "hardhat compile",
+    "clean": "hardhat clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MozelleErnser/temporeipsam.git"
+  },
+  "keywords": [
+    "lens-protocol",
+    "lens",
+    "sed",
+    "assumenda",
+    "eum",
+    "contracts",
+    "corrupti",
+    "web3"
+  ],
+  "author": "NathanHilll",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "4.8.0",
+    "hardhat": "^2.19.4"
+  }
+}
